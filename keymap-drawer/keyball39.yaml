@@ -41,7 +41,7 @@ layers:
   - {t: '$$mdi:backspace$$', h: MOUSE}
   - {t: GLOBE, h: NUM}
   NUM:
-  - '1'
+  - $$mdi:keyboard-esc$$
   - '2'
   - '3'
   - '4'
